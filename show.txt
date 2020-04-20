@@ -6,6 +6,7 @@ friends
 breaking bad
 killing eve
 jack ryan
+buy call
 the big bang theory
 yellow
 indigo
@@ -14,3 +15,4 @@ how i met your mother
 two broke girls
 I am adding unicorn.
 I added pony.
+I added buy call
